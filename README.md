@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ Udyan Gupta
-- 👀 I’m interested in Python, Machine Learning and Deep Learning.
+- 👀 I’m interested in Python, Statistics, Machine Learning and Deep Learning.
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on interesting and challenging Python and Machine Learning projects.
 - 📫 How to reach me @udyangupta7@gmail.com 
